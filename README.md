@@ -30,7 +30,7 @@ Froxels Engine is a **voxel sandbox toolkit** focused on **long-term scalability
 9. [GameInstance & Data Persistence](#gameinstance--data-persistence)  
 10. [Modding Support](#modding-support)  
 11. [Overhaul Stats](#overhaul-stats)
-12. [Current Bug Report](#issues)  
+12. [Bug Report](#issues)  
 13. [Roadmap](#roadmap)  
 14. [Latest Release](#latest-release)  
 
@@ -161,6 +161,7 @@ Froxels Engine is a **voxel sandbox toolkit** focused on **long-term scalability
 ---
 
 ## Issues
+# Bug Report
 ### Im Actively Working on Ironing Out all of these this Month in my Free Time as i move along through the Development of this SDK.
 - [ ] Animation Bug When Trying to Walk While Attacking / Breaking Block | In other words Initiating the Swing Animation Breaks when Walking.
 - [ ] Some Menu Settings for things Such as Rendering Range, Shadows, Rounded Trees Dont Work Consitently You Will Quickly find Sometimes they Do Work & Sometimes they Just Dont.
