@@ -14,21 +14,21 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VOXELSANDBOX_VoxelTypes_generated_h
 
-#define FID_Unreal_engine_PluginRebuild_PR55_Plugins_VoxelSandbox_Source_VoxelSandbox_Public_VoxelTypes_h_10_GENERATED_BODY \
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelSandbox_Source_VoxelSandbox_Public_VoxelTypes_h_10_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVoxel_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VOXELSANDBOX_API UScriptStruct* StaticStruct<struct FVoxel>();
 
-#define FID_Unreal_engine_PluginRebuild_PR55_Plugins_VoxelSandbox_Source_VoxelSandbox_Public_VoxelTypes_h_34_GENERATED_BODY \
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelSandbox_Source_VoxelSandbox_Public_VoxelTypes_h_34_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSectorX_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VOXELSANDBOX_API UScriptStruct* StaticStruct<struct FSectorX>();
 
-#define FID_Unreal_engine_PluginRebuild_PR55_Plugins_VoxelSandbox_Source_VoxelSandbox_Public_VoxelTypes_h_47_GENERATED_BODY \
+#define FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelSandbox_Source_VoxelSandbox_Public_VoxelTypes_h_47_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FSectorArrayY_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -36,7 +36,7 @@ template<> VOXELSANDBOX_API UScriptStruct* StaticStruct<struct FSectorX>();
 template<> VOXELSANDBOX_API UScriptStruct* StaticStruct<struct FSectorArrayY>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_engine_PluginRebuild_PR55_Plugins_VoxelSandbox_Source_VoxelSandbox_Public_VoxelTypes_h
+#define CURRENT_FILE_ID FID_build_U5M_Marketplace_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelSandbox_Source_VoxelSandbox_Public_VoxelTypes_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
