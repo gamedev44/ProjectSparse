@@ -3,7 +3,7 @@
 
 Froxels Engine is a **voxel sandbox toolkit** focused on **long-term scalability**, **deep modding support**, and **research access for developers**.  
 
-## Note: ``This repository serves as a **source-available peak** for modders, first-party developers, and release distribution of game executables.``  
+## Note: ``This repository serves as a **source-available peak** for modders, first-party developers, and release distribution of game executables and is not yet ready to be used by third party indies yet as its still under construction and has work to be done before we open it up to the public modding communities.``  
 
 ---
 
