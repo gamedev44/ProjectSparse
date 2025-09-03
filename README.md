@@ -175,4 +175,4 @@ This repository serves as a **source-available peak** for modders, first-party d
 
 ---
 
-⚡ **Froxels Engine = Scalable sandbox worlds + next-gen voxel systems + easy modding.**  
+⚡ **Froxels Engine = Scalable sandbox worlds + next-gen voxel systems + easy modding thus unlimited Freedom.**  
