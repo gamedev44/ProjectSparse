@@ -2,7 +2,8 @@
 ### A Minecraft Reforged Inspired Overhaul for Unreal Engine 5.2  
 
 Froxels Engine is a **voxel sandbox toolkit** focused on **long-term scalability**, **deep modding support**, and **research access for developers**.  
-This repository serves as a **source-available peak** for modders, first-party developers, and release distribution of game executables.  
+
+## Note: ``This repository serves as a **source-available peak** for modders, first-party developers, and release distribution of game executables.``  
 
 ---
 
