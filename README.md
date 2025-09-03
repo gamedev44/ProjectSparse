@@ -171,7 +171,7 @@ This repository serves as a **source-available peak** for modders, first-party d
 ---
 
 ## 📦 Latest Release  (Coming Soon)
-👉 [Download the Latest Froxels Engine Release](../../releases/latest)  
+# 👉 [Download the Latest Froxels Engine Release](../../releases/latest)  
 
 ---
 
