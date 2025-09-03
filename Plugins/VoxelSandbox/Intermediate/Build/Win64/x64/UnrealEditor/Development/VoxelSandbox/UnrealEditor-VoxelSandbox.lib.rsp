@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VoxelSandbox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal engine\PluginRebuild\PR55\Intermediate\Build\Win64\x64\PR55Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\Module.VoxelSandbox.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\InventoryActorComponent.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\SLoadingScreen.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\VoxelActor.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\VoxelAdministration.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\VoxelComponent.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\VoxelGameInstance.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\VoxelSandbox.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\SimplexNoiseLibrary.cpp.obj"
+"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\Default.rc2.res"
+/OUT:"C:\Unreal engine\PluginRebuild\PR55\Plugins\VoxelSandbox\Intermediate\Build\Win64\x64\UnrealEditor\Development\VoxelSandbox\UnrealEditor-VoxelSandbox.lib"

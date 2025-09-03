@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "1",
+	"FriendlyName": "VoxelSandbox",
+	"Description": "Voxel Sandbox Toolkit to create endless cube worlds",
+	"Category": "Other",
+	"CreatedBy": "Tefel",
+	"CreatedByURL": "youtube.com/UnrealTefel",
+	"DocsURL": "https://docs.google.com/document/u/1/d/1s50pXRHx1YYqj25nBGHQ-184XlIbWj9i8vcTvhsi6_U",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f5b91a7c3b1a461e9a9592902bdbf7e3",
+	"SupportURL": "",
+	"EngineVersion": "5.2.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "VoxelSandbox",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		}
+	]
+}

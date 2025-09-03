@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine\\pluginrebuild\\pr55\\plugins\\voxelsandbox\\source\\voxelsandbox\\thirdparty\\simplexnoiselibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine\\pluginrebuild\\pr55\\intermediate\\build\\win64\\x64\\pr55editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal engine\\pluginrebuild\\pr55\\plugins\\voxelsandbox\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxelsandbox\\definitions.voxelsandbox.h",
+            "c:\\unreal engine\\pluginrebuild\\pr55\\plugins\\voxelsandbox\\source\\voxelsandbox\\thirdparty\\simplexnoiselibrary.h",
+            "c:\\unreal engine\\pluginrebuild\\pr55\\plugins\\voxelsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelsandbox\\uht\\simplexnoiselibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

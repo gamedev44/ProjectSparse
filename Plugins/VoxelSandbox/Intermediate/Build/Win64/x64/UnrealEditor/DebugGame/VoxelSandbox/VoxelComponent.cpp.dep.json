@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\source\\voxelsandbox\\private\\voxelcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\intermediate\\build\\win64\\x64\\pluginrebuilder55editor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\voxelsandbox\\definitions.voxelsandbox.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\source\\voxelsandbox\\public\\voxelcomponent.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelsandbox\\uht\\voxelcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\staticmeshactor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\staticmeshactor.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmateriallibrary.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmateriallibrary.generated.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\source\\voxelsandbox\\public\\voxelactor.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelsandbox\\uht\\voxelactor.generated.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\source\\voxelsandbox\\public\\voxeladministration.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\source\\voxelsandbox\\public\\voxeltypes.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelsandbox\\uht\\voxeltypes.generated.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelsandbox\\uht\\voxeladministration.generated.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\source\\voxelsandbox\\public\\inventoryactorcomponent.h",
+            "c:\\users\\herre\\onedrive\\documents\\unreal projects\\pluginrebuild\\pluginrebuilder55\\plugins\\voxelsandbox\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelsandbox\\uht\\inventoryactorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
