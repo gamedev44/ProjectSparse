@@ -161,7 +161,7 @@ Froxels Engine is a **voxel sandbox toolkit** focused on **long-term scalability
 
 ## 🗺 Roadmap  
 - [ ] Official modding hub & page.
-- [ ] Easy Drag-and-drop slots** for animations (Idle, Walk, Jump, Attack, Falling, Dig, etc and more). As well as New Models for Weapons,items and Buff's.
+- [ ] Easy Drag-and-drop slots for animations (Idle, Walk, Jump, Attack, Falling, Dig, etc and more). As well as New Models for Weapons,items and Buff's.
 - [ ] Cross-Platform Support.    
 - [ ] Texture overhaul DLC pack.  
 - [ ] New tool/weapon types (axe, bow, ranged).  
