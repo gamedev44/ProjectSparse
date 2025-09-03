@@ -29,9 +29,10 @@ Froxels Engine is a **voxel sandbox toolkit** focused on **long-term scalability
 8. [UMG & UI](#umg--ui)  
 9. [GameInstance & Data Persistence](#gameinstance--data-persistence)  
 10. [Modding Support](#modding-support)  
-11. [Overhaul Stats](#overhaul-stats)  
-12. [Roadmap](#roadmap)  
-13. [Latest Release](#latest-release)  
+11. [Overhaul Stats](#overhaul-stats)
+12. [Current Bug Report](#issues)  
+13. [Roadmap](#roadmap)  
+14. [Latest Release](#latest-release)  
 
 ---
 
@@ -158,6 +159,12 @@ Froxels Engine is a **voxel sandbox toolkit** focused on **long-term scalability
 - **Focus:** scalability, ease of modding, modular design.  
 
 ---
+
+## Issues
+### Im Actively Working on Ironing Out all of these this Month in my Free Time as i move along through the Development of this SDK.
+- [ ] Animation Bug When Trying to Walk While Attacking / Breaking Block | In other words Initiating the Swing Animation Breaks when Walking.
+- [ ] Some Menu Settings for things Such as Rendering Range, Shadows, Rounded Trees Dont Work Consitently You Will Quickly find Sometimes they Do Work & Sometimes they Just Dont.
+- [ ] Some Blocks Render Upside down due to Oddly Flipped Normals (This is likely an easy fix in blender but just incase i wanted to add it here as i havent done it yet.)
 
 ## 🗺 Roadmap  
 - [ ] Official modding hub & page.
