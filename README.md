@@ -180,7 +180,7 @@ Froxels Engine is a **voxel sandbox toolkit** focused on **long-term scalability
 ---
 
 ## 📦 Latest Release  (Coming Soon)
-# 👉 [Download the Latest Froxels Windows EXE Demo when its Released By Checking Here Periodically.](https://github.com/gamedev44/ProjectSparse/releases/new)  
+# 👉 [Download the Latest Froxels Windows EXE Demo when its Released By Checking Here Periodically.](https://github.com/gamedev44/ProjectSparse/releases)  
 
 ---
 
